@@ -1,0 +1,2 @@
+$ docker run rrhan0/local-stats:latest
+Mean: 5.0, Median: 5.0, Mode: ModeResult(mode=5, count=2), Standard Deviation: 2.45
